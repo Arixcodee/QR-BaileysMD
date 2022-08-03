@@ -2,8 +2,8 @@
 
 ## Cara Install
 ```
-$ git clone https://github.com/Fokusdotid/Qr-Baileys-MD.git
-$ cd Qr-Baileys-MD
+$ git clone https://github.com/Arixcodee/QR-BaileysMD.git
+$ cd QR-BaileysMD
 $ npm i
 $ npm start
 ```
