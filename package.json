@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FokusDotId/Qr-Baileys-MD.git"
+    "url": "git+https://github.com/Arixcodee/QR-BaileysMD.git"
   },
   "keywords": [
     "family-md",
@@ -33,11 +33,11 @@
   "author": "FokusDotId",
   "license": "GPL-3.0 License",
   "bugs": {
-    "url": "https://github.com/FokusDotId/Qr-Baileys-MD/issues"
+    "url": "https://github.com/Arixcodee/QR-BaileysMD/issues"
   },
-  "homepage": "https://github.com/FokusDotId/Qr-Baileys-MD#readme",
+  "homepage": "https://github.com/Arixcodee/QR-BaileysMD#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "latest",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "qrcode-terminal": "^0.12.0"
   }
 }
